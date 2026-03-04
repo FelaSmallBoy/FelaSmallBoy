@@ -3,7 +3,7 @@
 🧠 A computer science student<br/>
 🔮 I create cool web interfaces(frontend)<br/>
 🥸 I enjoy interacting with data(data analysis)<br/>
-🐍 I now work with Python
+🐍 I now work with Python<br/>
 📫 You can reach me on www.linkedin.com/in/david-olowofela-332a6b317<br/>
 🐕 I love dogs(and all animals)
 
