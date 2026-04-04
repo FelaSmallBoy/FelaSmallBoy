@@ -6,6 +6,7 @@
 🐍 I now work with Python<br/>
 📫 You can reach me on www.linkedin.com/in/david-olowofela-332a6b317<br/>
 🐕 I love dogs(and all animals)
+mehn!
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,11 +24,13 @@
 
 ## 📌 About Me
 
-I’m passionate about building creative projects with a strong focus on design, usability, and performance.  
-I love exploring tools that bring ideas to life — from **front-end development** to **data analysis** and **UI design**.
+I’m passionate(meh!) about building creative projects with a strong focus on design, usability, and performance.  
+I love(not really) exploring tools that bring ideas to life — from **front-end development** to **data analysis** and **UI design**.
 
 ## 📂 Featured Projects
 
 - **Project Hub** – A portfolio-style app for managing and showcasing files.  
 - **Data Analysis Toolkit** – Excel, SQL, and visualization tools combined.  
 - **Web Components Library** – Reusable HTML/CSS/JS components.
+- **Order Quick Website** – Order Quick food delivery services.
+- **Roll Call** – QR code and Face recognition based attendance system.
