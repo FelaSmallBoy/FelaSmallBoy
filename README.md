@@ -1,11 +1,11 @@
 ## Hi, I'm David 👋
 
-🧠 A computer science student<br/>
-🔮 I create cool web interfaces(frontend)<br/>
-🥸 I enjoy interacting with data(data analysis)<br/>
-🐍 I now work with Python<br/>
-📫 You can reach me on www.linkedin.com/in/david-olowofela-332a6b317<br/>
-🐕 I love dogs(and all animals)<br/>
+🧠 Computer Science student<br/>
+🔮 Building clean and engaging web interfaces (Frontend)<br/>
+📊 Working with data and extracting meaningful insights<br/>
+🐍 Currently using Python for data and automation<br/>
+📫 Open to collaborations (especially paid ones 😉)<br/>
+🐕 Dog lover (and a fan of animals in general)<br/>
 mehn!
 
 <p>
@@ -35,3 +35,4 @@ I love(not really) exploring tools that bring ideas to life — from **front-end
 - **Web Components Library** – Reusable HTML/CSS/JS components.
 - **Order Quick Website** – Order Quick food delivery services.
 - **Roll Call** – QR code and Face recognition based attendance system.
+- **VeriVote** – A secure, transparent digital voting platform designed for university elections.
