@@ -20,6 +20,7 @@ mehn!
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Design-FF69B4?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ## 📌 About Me
